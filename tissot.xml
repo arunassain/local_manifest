@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/tissot" name="arunassain/android_device_xiaomi_tissot" remote="github" revision="8.1" />
+  <project path="vendor/xiaomi/tissot" name="Tissot-Development/android_vendor_xiaomi_tissot" remote="github" revision="8.1" />
+  <project path="kernel/xiaomi/tissot" name="crdroidandroid/android_kernel_xiaomi_tissot" remote="github" revision="8.1" />
+</manifest>

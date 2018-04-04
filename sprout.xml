@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="device/google/sprout4" name="arunassain/android_device_google_sprout4" remote="github" revision="cm-14.1" />
-  <project path="vendor/google" name="arunassain/proprietary_vendor_google" remote="github" revision="cm-14.1" />
-  <project path="kernel/mediatek/sprout" name="arunassain/android_kernel_mediatek_sprout" remote="github" revision="cm-14.0" />
-  <project path="device/google/sprout-common" name="arunassain/android_device_google_sprout-common" remote="github" revision="cm-14.1" />
-</manifest>
